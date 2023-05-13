@@ -7,10 +7,21 @@ The data contains the housing prices sold from May 2014 to May 2015 from King Co
 ## Evaluation
 The performance of the model is evaluated using metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared. These metrics provide insights into the accuracy and reliability of the predictions.
 
-## Usage (California)
+### Usage 
+## California
 1. Clone this repository: https://github.com/pvinsevi/HousingPricePrediction.git
 2. Install jupyter notebook
 3. Make sure your dataset contains the same features as the training dataset.
 4. Insert your raw data to the prediction folder and rename the file into "raw_data.csv"
 5. Run the "script_predict.ipynb" script using jupyter notebook.
 6. The predicted house price will be included in the file "predicted_data.csv"
+
+## King County
+1. Clone this repository: https://github.com/pvinsevi/HousingPricePrediction.git
+2. Install jupyter notebook
+3. Make sure your dataset contains the same features as the training dataset.
+4. Insert your raw data to the prediction folder and rename the file into "raw_data.csv"
+5. Run the "script_preprocessing.ipynb" script using jupyter notebook.
+6. Wait until "data.csv" shows.
+7. Run the "script_predict.ipynb" script using jupyter notebook.
+8. The predicted house price will be included in the file "predicted_data.csv"
