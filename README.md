@@ -7,7 +7,7 @@ The data contains the housing prices sold from May 2014 to May 2015 from King Co
 ## Evaluation
 The performance of the model is evaluated using metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared. These metrics provide insights into the accuracy and reliability of the predictions.
 
-### Usage 
+# Usage 
 ## California
 1. Clone this repository: https://github.com/pvinsevi/HousingPricePrediction.git
 2. Install jupyter notebook
